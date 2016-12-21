@@ -9,7 +9,7 @@
   // 追加情報を表示します。
   if($retval){
     echo '
-    <hr />key is locked';
+    <hr />key is locked   ';
   }else{
     echo '
     <hr />key is Unlocked';
