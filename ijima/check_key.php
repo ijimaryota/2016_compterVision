@@ -14,7 +14,4 @@
     echo '
     <hr />key is Unlocked';
   }
-
-
-
 ?>
